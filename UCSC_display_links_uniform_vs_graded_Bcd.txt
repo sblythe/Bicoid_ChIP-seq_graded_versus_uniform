@@ -1,0 +1,15 @@
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=wt_Bcd description=wt_graded_Bcd autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:100 visibility=full color=34,139,34 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/Bicoid_ChIP-seq_graded_versus_uniform/main/wt_graded_Bcd_ChIPseq.bigwig
+
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=high_uBcd description=high_uniform_Bcd autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:100 visibility=full color=34,139,34 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/Bicoid_ChIP-seq_graded_versus_uniform/main/high_uniform_Bcd_ChIPseq.bigwig
+
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=mid_uBcd description=medium_uniform_Bcd autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:100 visibility=full color=34,139,34 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/Bicoid_ChIP-seq_graded_versus_uniform/main/mid_uniform_Bcd_ChIPseq.bigwig
+
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=low_uBcd description=low_uniform_Bcd autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:100 visibility=full color=34,139,34 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/Bicoid_ChIP-seq_graded_versus_uniform/main/low_uniform_Bcd_ChIPseq.bigwig
